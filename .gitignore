@@ -1,0 +1,29 @@
+# Garmin Watch Face Project
+
+# Build artifacts
+bin/
+gen/
+*.prg
+*.prg.debug.xml
+
+# Generated MIR files
+external-mir/
+internal-mir/
+mir/
+
+# Developer keys and sensitive files
+developer_key
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Resource cache
+resources/cache/ 
