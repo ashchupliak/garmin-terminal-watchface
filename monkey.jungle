@@ -1,6 +1,6 @@
-# Jungle file for Analog Watch Face
+# Jungle file for Terminal Watch Face
 project.manifest = manifest.xml
 sourcePath = source
 resourcePath = resources
 base.lang = monkey
-base.excludeAnnotations = fenix7 
+base.excludeAnnotations = fenix7
