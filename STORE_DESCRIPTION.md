@@ -26,7 +26,14 @@ The watch face displays information in classic terminal command format:
 - `$ stress` displays your stress level
 - `$ power` shows battery percentage
 
-Compatible with Fenix 7, Fenix 7S, and Fenix 7X devices.
+Compatible with a wide range of Garmin devices including:
+- **Forerunner Series**: 245, 255, 265, 645, 745, 945, 955, 965
+- **Fenix Series**: 6, 7, 8 (all variants)
+- **Venu Series**: 1, 2, 3 (all variants)
+- **Vivoactive Series**: 3, 4, 5
+- **Epix Series**: 2 Pro
+- **MARQ Collection**: All models
+- **Tactix, Enduro, Approach**: Latest models
 
 **Keywords:** terminal, retro, CRT, vintage, computer, developer, tech, amber, animated, command line
 
