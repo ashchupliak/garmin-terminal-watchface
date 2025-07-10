@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/andrii.shchupliak/source/garmin-face/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="1" lineNum="26" parent="globals/DigitalWatchFaceView" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="2" lineNum="10" parent="globals/DigitalWatchFaceApp" pc="268435472" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/gen/no-device/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435484" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="5" lineNum="306" parent="globals/DigitalWatchFaceView" pc="268435504" symbol="onLayout"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="60" parent="globals/DigitalWatchFaceView" pc="268435507" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="61" parent="globals/DigitalWatchFaceView" pc="268435510" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="62" parent="globals/DigitalWatchFaceView" pc="268435519" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="63" parent="globals/DigitalWatchFaceView" pc="268435528" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="65" parent="globals/DigitalWatchFaceView" pc="268435544" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="67" parent="globals/DigitalWatchFaceView" pc="268435551" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="70" parent="globals/DigitalWatchFaceView" pc="268435567" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="71" parent="globals/DigitalWatchFaceView" pc="268435578" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="72" parent="globals/DigitalWatchFaceView" pc="268435594" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="75" parent="globals/DigitalWatchFaceView" pc="268435613" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="76" parent="globals/DigitalWatchFaceView" pc="268435663" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="77" parent="globals/DigitalWatchFaceView" pc="268435684" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="6" lineNum="87" parent="globals/DigitalWatchFaceView" pc="268435720" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="117" parent="globals/DigitalWatchFaceView" pc="268435740" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="118" parent="globals/DigitalWatchFaceView" pc="268435743" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="119" parent="globals/DigitalWatchFaceView" pc="268435752" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="120" parent="globals/DigitalWatchFaceView" pc="268435761" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="123" parent="globals/DigitalWatchFaceView" pc="268435777" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="124" parent="globals/DigitalWatchFaceView" pc="268435790" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="125" parent="globals/DigitalWatchFaceView" pc="268435797" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="127" parent="globals/DigitalWatchFaceView" pc="268435804" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="130" parent="globals/DigitalWatchFaceView" pc="268435821" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="139" parent="globals/DigitalWatchFaceView" pc="268435846" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="140" parent="globals/DigitalWatchFaceView" pc="268435871" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="141" parent="globals/DigitalWatchFaceView" pc="268435878" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="144" parent="globals/DigitalWatchFaceView" pc="268435885" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="150" parent="globals/DigitalWatchFaceView" pc="268435960" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="157" parent="globals/DigitalWatchFaceView" pc="268436049" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="158" parent="globals/DigitalWatchFaceView" pc="268436066" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="7" lineNum="167" parent="globals/DigitalWatchFaceView" pc="268436091" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="217" parent="globals/DigitalWatchFaceView" pc="268436130" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="218" parent="globals/DigitalWatchFaceView" pc="268436133" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="219" parent="globals/DigitalWatchFaceView" pc="268436142" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="220" parent="globals/DigitalWatchFaceView" pc="268436151" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="223" parent="globals/DigitalWatchFaceView" pc="268436167" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="224" parent="globals/DigitalWatchFaceView" pc="268436180" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="225" parent="globals/DigitalWatchFaceView" pc="268436187" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="227" parent="globals/DigitalWatchFaceView" pc="268436194" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="230" parent="globals/DigitalWatchFaceView" pc="268436211" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="239" parent="globals/DigitalWatchFaceView" pc="268436248" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="240" parent="globals/DigitalWatchFaceView" pc="268436265" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="243" parent="globals/DigitalWatchFaceView" pc="268436305" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="244" parent="globals/DigitalWatchFaceView" pc="268436313" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="246" parent="globals/DigitalWatchFaceView" pc="268436333" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="8" lineNum="249" parent="globals/DigitalWatchFaceView" pc="268436350" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="177" parent="globals/DigitalWatchFaceView" pc="268436385" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="178" parent="globals/DigitalWatchFaceView" pc="268436388" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="179" parent="globals/DigitalWatchFaceView" pc="268436397" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="180" parent="globals/DigitalWatchFaceView" pc="268436406" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="183" parent="globals/DigitalWatchFaceView" pc="268436422" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="184" parent="globals/DigitalWatchFaceView" pc="268436435" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="185" parent="globals/DigitalWatchFaceView" pc="268436442" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="187" parent="globals/DigitalWatchFaceView" pc="268436449" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="190" parent="globals/DigitalWatchFaceView" pc="268436466" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="199" parent="globals/DigitalWatchFaceView" pc="268436503" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="200" parent="globals/DigitalWatchFaceView" pc="268436515" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="202" parent="globals/DigitalWatchFaceView" pc="268436522" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="203" parent="globals/DigitalWatchFaceView" pc="268436544" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="206" parent="globals/DigitalWatchFaceView" pc="268436586" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="9" lineNum="207" parent="globals/DigitalWatchFaceView" pc="268436603" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="292" parent="globals/DigitalWatchFaceView" pc="268436638" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="293" parent="globals/DigitalWatchFaceView" pc="268436641" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="295" parent="globals/DigitalWatchFaceView" pc="268436650" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="298" parent="globals/DigitalWatchFaceView" pc="268436666" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="299" parent="globals/DigitalWatchFaceView" pc="268436681" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="10" lineNum="303" parent="globals/DigitalWatchFaceView" pc="268436713" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="36" parent="globals/DigitalWatchFaceView" pc="268436732" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="37" parent="globals/DigitalWatchFaceView" pc="268436735" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="38" parent="globals/DigitalWatchFaceView" pc="268436744" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="39" parent="globals/DigitalWatchFaceView" pc="268436753" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="41" parent="globals/DigitalWatchFaceView" pc="268436769" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="44" parent="globals/DigitalWatchFaceView" pc="268436785" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="45" parent="globals/DigitalWatchFaceView" pc="268436796" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="46" parent="globals/DigitalWatchFaceView" pc="268436812" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="49" parent="globals/DigitalWatchFaceView" pc="268436828" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="50" parent="globals/DigitalWatchFaceView" pc="268436866" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="51" parent="globals/DigitalWatchFaceView" pc="268436885" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="11" lineNum="56" parent="globals/DigitalWatchFaceView" pc="268436919" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="91" parent="globals/DigitalWatchFaceView" pc="268436938" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="92" parent="globals/DigitalWatchFaceView" pc="268436941" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="93" parent="globals/DigitalWatchFaceView" pc="268436950" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="94" parent="globals/DigitalWatchFaceView" pc="268436959" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="97" parent="globals/DigitalWatchFaceView" pc="268436975" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="100" parent="globals/DigitalWatchFaceView" pc="268436991" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="101" parent="globals/DigitalWatchFaceView" pc="268437003" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="107" parent="globals/DigitalWatchFaceView" pc="268437061" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="108" parent="globals/DigitalWatchFaceView" pc="268437072" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="109" parent="globals/DigitalWatchFaceView" pc="268437088" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="110" parent="globals/DigitalWatchFaceView" pc="268437104" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="111" parent="globals/DigitalWatchFaceView" pc="268437117" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="13" lineNum="112" parent="globals/DigitalWatchFaceView" pc="268437130" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="14" lineNum="31" parent="globals/DigitalWatchFaceView" pc="268437157" symbol="initialize"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="14" lineNum="32" parent="globals/DigitalWatchFaceView" pc="268437159" symbol="initialize"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="259" parent="globals/DigitalWatchFaceView" pc="268437172" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="260" parent="globals/DigitalWatchFaceView" pc="268437175" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="261" parent="globals/DigitalWatchFaceView" pc="268437184" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="262" parent="globals/DigitalWatchFaceView" pc="268437193" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="265" parent="globals/DigitalWatchFaceView" pc="268437209" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="266" parent="globals/DigitalWatchFaceView" pc="268437222" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="267" parent="globals/DigitalWatchFaceView" pc="268437229" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="270" parent="globals/DigitalWatchFaceView" pc="268437236" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="271" parent="globals/DigitalWatchFaceView" pc="268437250" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="272" parent="globals/DigitalWatchFaceView" pc="268437267" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="280" parent="globals/DigitalWatchFaceView" pc="268437307" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="16" lineNum="281" parent="globals/DigitalWatchFaceView" pc="268437324" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="309" parent="globals/DigitalWatchFaceView" pc="268437362" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="310" parent="globals/DigitalWatchFaceView" pc="268437365" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="313" parent="globals/DigitalWatchFaceView" pc="268437377" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="314" parent="globals/DigitalWatchFaceView" pc="268437395" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="317" parent="globals/DigitalWatchFaceView" pc="268437403" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="318" parent="globals/DigitalWatchFaceView" pc="268437414" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="319" parent="globals/DigitalWatchFaceView" pc="268437425" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="320" parent="globals/DigitalWatchFaceView" pc="268437436" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="323" parent="globals/DigitalWatchFaceView" pc="268437447" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="324" parent="globals/DigitalWatchFaceView" pc="268437460" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="325" parent="globals/DigitalWatchFaceView" pc="268437471" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="17" lineNum="326" parent="globals/DigitalWatchFaceView" pc="268437482" symbol="onUpdate"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="18" lineNum="15" parent="globals/DigitalWatchFaceApp" pc="268437496" symbol="onStart"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="19" lineNum="21" parent="globals/DigitalWatchFaceApp" pc="268437499" symbol="getInitialView"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="19" lineNum="22" parent="globals/DigitalWatchFaceApp" pc="268437501" symbol="getInitialView"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="20" lineNum="11" parent="globals/DigitalWatchFaceApp" pc="268437531" symbol="initialize"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="20" lineNum="12" parent="globals/DigitalWatchFaceApp" pc="268437533" symbol="initialize"/>
+        <entry filename="/Users/andrii.shchupliak/source/garmin-face/source/DigitalWatchFaceApp.mc" id="21" lineNum="18" parent="globals/DigitalWatchFaceApp" pc="268437546" symbol="onStop"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="8392278" symbol="stressScore"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="6" object="true" symbol="DigitalWatchFaceView"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="9" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;_scanlineOffset&gt;"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="19" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry field="true" id="7" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;_characterOffset&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="16" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="13" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;"/>
+        <entry id="14" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="11" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;"/>
+        <entry id="17" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="5" object="true" symbol="DigitalWatchFaceApp"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="12" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="15" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="10" method="true" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="8" symbol="&lt;globals/DigitalWatchFaceView/&lt;&gt;_noiseOffset&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435739" name="dc" stackId="1" startPc="268435507"/>
+        <entry endPc="268435738" name="width" stackId="2" startPc="268435510"/>
+        <entry endPc="268435738" name="height" stackId="3" startPc="268435510"/>
+        <entry endPc="268435738" name="margin" stackId="4" startPc="268435510"/>
+        <entry endPc="268435738" name="chars" stackId="5" startPc="268435510"/>
+        <entry endPc="268435719" name="i" stackId="6" startPc="268435578"/>
+        <entry endPc="268435709" name="x" stackId="7" startPc="268435578"/>
+        <entry endPc="268435709" name="y" stackId="8" startPc="268435578"/>
+        <entry endPc="268435706" name="charIndex" stackId="9" startPc="268435663"/>
+        <entry arg="true" endPc="268436129" name="dc" stackId="1" startPc="268435740"/>
+        <entry arg="true" endPc="268436129" name="clockTime" stackId="2" startPc="268435740"/>
+        <entry endPc="268436128" name="width" stackId="3" startPc="268435743"/>
+        <entry endPc="268436128" name="height" stackId="4" startPc="268435743"/>
+        <entry endPc="268436128" name="margin" stackId="5" startPc="268435743"/>
+        <entry endPc="268436128" name="availableHeight" stackId="6" startPc="268435743"/>
+        <entry endPc="268436128" name="elementSpacing" stackId="7" startPc="268435743"/>
+        <entry endPc="268436128" name="startY" stackId="8" startPc="268435743"/>
+        <entry endPc="268436128" name="today" stackId="9" startPc="268435743"/>
+        <entry endPc="268436128" name="days" stackId="10" startPc="268435743"/>
+        <entry endPc="268436128" name="months" stackId="11" startPc="268435743"/>
+        <entry endPc="268436128" name="dateStr" stackId="12" startPc="268435743"/>
+        <entry endPc="268436128" name="timeStr" stackId="13" startPc="268435743"/>
+        <entry arg="true" endPc="268436384" name="dc" stackId="1" startPc="268436130"/>
+        <entry endPc="268436383" name="width" stackId="2" startPc="268436133"/>
+        <entry endPc="268436383" name="height" stackId="3" startPc="268436133"/>
+        <entry endPc="268436383" name="margin" stackId="4" startPc="268436133"/>
+        <entry endPc="268436383" name="availableHeight" stackId="5" startPc="268436133"/>
+        <entry endPc="268436383" name="elementSpacing" stackId="6" startPc="268436133"/>
+        <entry endPc="268436383" name="startY" stackId="7" startPc="268436133"/>
+        <entry endPc="268436383" name="battery" stackId="8" startPc="268436133"/>
+        <entry endPc="268436383" name="batteryStr" stackId="9" startPc="268436133"/>
+        <entry arg="true" endPc="268436637" name="dc" stackId="1" startPc="268436385"/>
+        <entry endPc="268436636" name="width" stackId="2" startPc="268436388"/>
+        <entry endPc="268436636" name="height" stackId="3" startPc="268436388"/>
+        <entry endPc="268436636" name="margin" stackId="4" startPc="268436388"/>
+        <entry endPc="268436636" name="availableHeight" stackId="5" startPc="268436388"/>
+        <entry endPc="268436636" name="elementSpacing" stackId="6" startPc="268436388"/>
+        <entry endPc="268436636" name="startY" stackId="7" startPc="268436388"/>
+        <entry endPc="268436636" name="info" stackId="8" startPc="268436388"/>
+        <entry endPc="268436636" name="stressStr" stackId="9" startPc="268436388"/>
+        <entry arg="true" endPc="268436731" name="dc" stackId="1" startPc="268436638"/>
+        <entry endPc="268436730" name="height" stackId="2" startPc="268436641"/>
+        <entry endPc="268436712" name="y" stackId="3" startPc="268436681"/>
+        <entry arg="true" endPc="268436937" name="dc" stackId="1" startPc="268436732"/>
+        <entry endPc="268436936" name="width" stackId="2" startPc="268436735"/>
+        <entry endPc="268436936" name="height" stackId="3" startPc="268436735"/>
+        <entry endPc="268436936" name="margin" stackId="4" startPc="268436735"/>
+        <entry endPc="268436918" name="i" stackId="5" startPc="268436796"/>
+        <entry endPc="268436908" name="x" stackId="6" startPc="268436796"/>
+        <entry endPc="268436908" name="y" stackId="7" startPc="268436796"/>
+        <entry arg="true" endPc="268437156" name="dc" stackId="1" startPc="268436938"/>
+        <entry endPc="268437155" name="width" stackId="2" startPc="268436941"/>
+        <entry endPc="268437155" name="height" stackId="3" startPc="268436941"/>
+        <entry endPc="268437155" name="margin" stackId="4" startPc="268436941"/>
+        <entry endPc="268437060" name="i" stackId="5" startPc="268437003"/>
+        <entry endPc="268437155" name="j" stackId="6" startPc="268437072"/>
+        <entry endPc="268437145" name="terminalWidth" stackId="7" startPc="268437072"/>
+        <entry endPc="268437145" name="terminalHeight" stackId="8" startPc="268437072"/>
+        <entry endPc="268437145" name="glowX" stackId="9" startPc="268437072"/>
+        <entry endPc="268437145" name="glowY" stackId="10" startPc="268437072"/>
+        <entry arg="true" endPc="268437361" name="dc" stackId="1" startPc="268437172"/>
+        <entry arg="true" endPc="268437361" name="clockTime" stackId="2" startPc="268437172"/>
+        <entry endPc="268437360" name="width" stackId="3" startPc="268437175"/>
+        <entry endPc="268437360" name="height" stackId="4" startPc="268437175"/>
+        <entry endPc="268437360" name="margin" stackId="5" startPc="268437175"/>
+        <entry endPc="268437360" name="availableHeight" stackId="6" startPc="268437175"/>
+        <entry endPc="268437360" name="elementSpacing" stackId="7" startPc="268437175"/>
+        <entry endPc="268437360" name="startY" stackId="8" startPc="268437175"/>
+        <entry arg="true" endPc="268437495" name="dc" stackId="1" startPc="268437362"/>
+        <entry endPc="268437494" name="clockTime" stackId="2" startPc="268437365"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/DigitalWatchFaceView" offset="107" parentId="globals" symbolId="DigitalWatchFaceView" type="class"/>
+        <dataEntry label="globals/DigitalWatchFaceApp" offset="295" parentId="globals" symbolId="DigitalWatchFaceApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="366" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="410" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="445" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="DigitalWatchFaceView" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="DigitalWatchFaceApp" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435503" name="&lt;init&gt;" parent="Rez" startPc="268435484">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="DigitalWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435506" name="onLayout" parent="DigitalWatchFaceView" startPc="268435504">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435739" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawFloatingCharacters&gt;" parent="DigitalWatchFaceView" startPc="268435507">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436129" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawTerminalTime&gt;" parent="DigitalWatchFaceView" startPc="268435740">
+            <param id="dc"/>
+            <param id="clockTime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436384" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBatteryStatus&gt;" parent="DigitalWatchFaceView" startPc="268436130">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436637" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawStressLevel&gt;" parent="DigitalWatchFaceView" startPc="268436385">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436731" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawScanLines&gt;" parent="DigitalWatchFaceView" startPc="268436638">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436937" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawWhiteNoise&gt;" parent="DigitalWatchFaceView" startPc="268436732">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="DigitalWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437156" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawCRTGlow&gt;" parent="DigitalWatchFaceView" startPc="268436938">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437171" name="initialize" parent="DigitalWatchFaceView" startPc="268437157">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="DigitalWatchFaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437361" name="&lt;globals/DigitalWatchFaceView/&lt;&gt;drawBlinkingCursor&gt;" parent="DigitalWatchFaceView" startPc="268437172">
+            <param id="dc"/>
+            <param id="clockTime"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437495" name="onUpdate" parent="DigitalWatchFaceView" startPc="268437362">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437498" name="onStart" parent="DigitalWatchFaceApp" startPc="268437496">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437530" name="getInitialView" parent="DigitalWatchFaceApp" startPc="268437499">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437545" name="initialize" parent="DigitalWatchFaceApp" startPc="268437531">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437548" name="onStop" parent="DigitalWatchFaceApp" startPc="268437546">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
